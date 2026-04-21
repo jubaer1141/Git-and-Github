@@ -5,18 +5,6 @@ No prior knowledge of Git, GitHub, or VS Code is required.
 
 Follow the steps in order, and you’ll be able to upload and manage your code on GitHub easily.
 
----
-
-## 📚 Topics Covered
-
-1. Install VS Code
-2. Install Git Bash
-3. Create GitHub Account
-4. Create First Repository
-5. Upload Code
-6. Update Code
-7. Common Commands
-8. Error Fixes
 
 ---
 
