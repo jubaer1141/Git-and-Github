@@ -55,8 +55,8 @@ git config --global user.email "your-email@example.com"
 Example:
 
 ```bash id="n2v7d4"
-git config --global user.name "Jubaer Hossain"
-git config --global user.email "jubaer@email.com"
+git config --global user.name "Md. Jubaer Hossain"
+git config --global user.email "mdjubaer1141@email.com"
 ```
 
 ---
